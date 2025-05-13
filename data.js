@@ -30,18 +30,18 @@ var APP_DATA = {
       },
       "linkHotspots": [
         {
-          "yaw": -3.0828147525393597,
-          "pitch": 1.1439868749752584,
+          "yaw": -2.2434539425594924,
+          "pitch": 0.9685999051069878,
           "rotation": 6.283185307179586,
           "target": "0-1"
         }
       ],
       "infoHotspots": [
         {
-          "yaw": -1.4848428447448718,
-          "pitch": 0.3419509645062533,
-          "title": "And this is the title<div>line2</div>",
-          "text": "Info hot spot here"
+          "yaw": -1.9584087853993069,
+          "pitch": -0.6691525945127719,
+          "title": "BSK Kennung",
+          "text": "BSK Details"
         }
       ]
     }
