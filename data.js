@@ -20,26 +20,36 @@ var APP_DATA = {
         {
           "tileSize": 512,
           "size": 2048
+        },
+        {
+          "tileSize": 512,
+          "size": 4096
         }
       ],
-      "faceSize": 1488,
+      "faceSize": 2992,
       "initialViewParameters": {
-        "yaw": 2.9753881507047195,
-        "pitch": 0.16461474011663668,
-        "fov": 1.0993935547092375
+        "yaw": -2.791355907920485,
+        "pitch": -0.23002382869590932,
+        "fov": 1.0538905185677918
       },
       "linkHotspots": [
         {
-          "yaw": 3.1147165929386347,
-          "pitch": 0.1419384880485488,
+          "yaw": 3.0739566130620846,
+          "pitch": -0.059158007726059836,
           "rotation": 0,
           "target": "1-2"
         },
         {
-          "yaw": 3.1147165929386347,
-          "pitch": 0.1419384880485488,
+          "yaw": -2.3928274547145705,
+          "pitch": -0.13858580714975233,
           "rotation": 0,
           "target": "2-3"
+        },
+        {
+          "yaw": -2.7213060678170855,
+          "pitch": 0.1876444872202896,
+          "rotation": 0,
+          "target": "3-4"
         }
       ],
       "infoHotspots": []
@@ -64,26 +74,36 @@ var APP_DATA = {
         {
           "tileSize": 512,
           "size": 2048
+        },
+        {
+          "tileSize": 512,
+          "size": 4096
         }
       ],
-      "faceSize": 1488,
+      "faceSize": 2992,
       "initialViewParameters": {
-        "pitch": 0,
-        "yaw": 0,
-        "fov": 1.5707963267948966
+        "yaw": -2.8034532429236894,
+        "pitch": -0.256468085274312,
+        "fov": 1.0538905185677918
       },
       "linkHotspots": [
         {
-          "yaw": -2.037717413092645,
-          "pitch": 0.05906642409227203,
+          "yaw": 0.10846994346318439,
+          "pitch": -0.034885383276550996,
+          "rotation": 0,
+          "target": "0-1"
+        },
+        {
+          "yaw": -1.341503117149628,
+          "pitch": -0.23894203565026828,
           "rotation": 0,
           "target": "2-3"
         },
         {
-          "yaw": 1.4882952805369314,
-          "pitch": 0.03608078945909554,
+          "yaw": -2.335264537483999,
+          "pitch": 0.33006162910942294,
           "rotation": 0,
-          "target": "0-1"
+          "target": "3-4"
         }
       ],
       "infoHotspots": []
@@ -108,32 +128,24 @@ var APP_DATA = {
         {
           "tileSize": 512,
           "size": 2048
+        },
+        {
+          "tileSize": 512,
+          "size": 4096
         }
       ],
-      "faceSize": 1488,
+      "faceSize": 2992,
       "initialViewParameters": {
-        "pitch": 0,
-        "yaw": 0,
-        "fov": 1.5707963267948966
+        "yaw": 1.9508019017350504,
+        "pitch": 0.5902203226396843,
+        "fov": 1.0538905185677918
       },
       "linkHotspots": [
         {
-          "yaw": 0.0366329316953653,
-          "pitch": 0.43017857285762773,
-          "rotation": 0,
-          "target": "1-2"
-        },
-        {
-          "yaw": -3.0137394798564365,
-          "pitch": 0.1945760095994089,
+          "yaw": 1.7268244901291068,
+          "pitch": 0.5227519852396814,
           "rotation": 0,
           "target": "3-4"
-        },
-        {
-          "yaw": 0.022113806676916425,
-          "pitch": 0.10842903161652906,
-          "rotation": 0,
-          "target": "0-1"
         }
       ],
       "infoHotspots": []
@@ -158,142 +170,46 @@ var APP_DATA = {
         {
           "tileSize": 512,
           "size": 2048
+        },
+        {
+          "tileSize": 512,
+          "size": 4096
         }
       ],
-      "faceSize": 1488,
+      "faceSize": 2992,
       "initialViewParameters": {
-        "pitch": 0,
-        "yaw": 0,
+        "yaw": 0.6881552497493804,
+        "pitch": -0.08274607405187595,
         "fov": 1.5707963267948966
       },
       "linkHotspots": [
         {
-          "yaw": 1.433662379806277,
-          "pitch": 0.8650044234235743,
+          "yaw": 0.32644450710265716,
+          "pitch": -0.2566779981007894,
+          "rotation": 0,
+          "target": "0-1"
+        },
+        {
+          "yaw": 0.9046005597788387,
+          "pitch": -0.2922779051986808,
+          "rotation": 0,
+          "target": "1-2"
+        },
+        {
+          "yaw": 0.08796039097195596,
+          "pitch": -0.5672598708114354,
           "rotation": 0,
           "target": "2-3"
-        },
-        {
-          "yaw": -1.712334736990826,
-          "pitch": 0.9034859913512161,
-          "rotation": 0,
-          "target": "4-5"
         }
       ],
-      "infoHotspots": []
-    },
-    {
-      "id": "4-5",
-      "name": "5",
-      "levels": [
-        {
-          "tileSize": 256,
-          "size": 256,
-          "fallbackOnly": true
-        },
-        {
-          "tileSize": 512,
-          "size": 512
-        },
-        {
-          "tileSize": 512,
-          "size": 1024
-        },
-        {
-          "tileSize": 512,
-          "size": 2048
-        }
-      ],
-      "faceSize": 1488,
-      "initialViewParameters": {
-        "pitch": 0,
-        "yaw": 0,
-        "fov": 1.5707963267948966
-      },
-      "linkHotspots": [
-        {
-          "yaw": -1.5854351749661983,
-          "pitch": 0.36511018971266296,
-          "rotation": 0,
-          "target": "5-6"
-        },
-        {
-          "yaw": -1.0348106893124438,
-          "pitch": 0.22427047055048988,
-          "rotation": 0,
-          "target": "6-7"
-        }
-      ],
-      "infoHotspots": []
-    },
-    {
-      "id": "5-6",
-      "name": "6",
-      "levels": [
-        {
-          "tileSize": 256,
-          "size": 256,
-          "fallbackOnly": true
-        },
-        {
-          "tileSize": 512,
-          "size": 512
-        },
-        {
-          "tileSize": 512,
-          "size": 1024
-        },
-        {
-          "tileSize": 512,
-          "size": 2048
-        }
-      ],
-      "faceSize": 1488,
-      "initialViewParameters": {
-        "pitch": 0,
-        "yaw": 0,
-        "fov": 1.5707963267948966
-      },
-      "linkHotspots": [],
-      "infoHotspots": []
-    },
-    {
-      "id": "6-7",
-      "name": "7",
-      "levels": [
-        {
-          "tileSize": 256,
-          "size": 256,
-          "fallbackOnly": true
-        },
-        {
-          "tileSize": 512,
-          "size": 512
-        },
-        {
-          "tileSize": 512,
-          "size": 1024
-        },
-        {
-          "tileSize": 512,
-          "size": 2048
-        }
-      ],
-      "faceSize": 1488,
-      "initialViewParameters": {
-        "pitch": 0,
-        "yaw": 0,
-        "fov": 1.5707963267948966
-      },
-      "linkHotspots": [],
       "infoHotspots": []
     }
   ],
-  "name": "MH Restaurant",
+  "name": "Project Title",
   "settings": {
     "mouseViewMode": "drag",
     "autorotateEnabled": false,
-    "fullscreenButton": true,
+    "fullscreenButton": false,
     "viewControlButtons": false
   }
 };
